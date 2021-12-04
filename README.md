@@ -1,1 +1,1 @@
-# EfficientNet_Whale_classification
+Simple EfficientNet classification
